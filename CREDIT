@@ -1,0 +1,15 @@
+        This is at least a partial credits-file of people that have contributed to the Diag-Script project.  It is formatted to allow easy grepping and beautification by scripts.  The fields are: name (N), email (E), web-address (W), and description (D). If you are a contributor and would
+        like to be listed bellow, please branch update and submit a pull request for approval.
+        Thanks,
+        Sean Crow
+----------
+
+N: Allen Jehle
+
+N: Robert Warren
+
+N: Michael Cox
+
+N: Jan Zimbehl
+
+N: Tareq Al-Maamari

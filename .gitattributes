@@ -1,0 +1,6 @@
+# Set the default behavior, to use LF for newlines.
+* text=auto
+* text eol=lf
+
+# Declare files that will always have LF line endings on checkout.
+*.sh text eol=lf

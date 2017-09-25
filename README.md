@@ -18,10 +18,10 @@ This is a standard bash script and should work on most Linux based operating sys
 - Quantastor 4+
 
 ## **To download the current script:**  
-Download the diag-script.sh file from [here]() to your desktop.  
+Download the diag-script.sh file from [here](https://github.com/b52src/Diag-Script) to your desktop.  
 Then either use [SCP](https://linux.die.net/man/1/scp) to copy the file over to the desired server or create a new file on the server and copy and paste the plain text from the file downloaded.
 
-Or You can grab it with: `curl -O `
+Or You can grab it with: `curl -O https://raw.githubusercontent.com/b52src/Diag-Script/master/bmi-diag.sh`
 
 ## Running The Script:
 **To run the script with a standard Linux OS, you should use the following command (It should be run as root or sudo for all commands to work correctly):**  
